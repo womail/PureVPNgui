@@ -12,3 +12,7 @@ from nicegui import ui
 from datetime import datetime
 import random
 import string
+
+To run just python purevpngui.py
+
+You can connect to the live reload server on http://0.0.0.0:8080
